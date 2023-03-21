@@ -5158,7 +5158,8 @@ select.form-control:not([size]):not([multiple]) {
   width: 70px; }
 
 .img-80 {
-  width: 80px; }
+  width: 80px;
+  height: 80px; }
 
 .img-90 {
   width: 90px; }
@@ -6007,7 +6008,8 @@ table tbody .border-bottom-info td {
     position: relative; }
     .main-menu .main-menu-header img {
       position: relative;
-      width: 60px; }
+      width: 60px;
+      height: 60px; }
     .main-menu .main-menu-header .user-details {
       display: block;
       margin-top: 10px;
