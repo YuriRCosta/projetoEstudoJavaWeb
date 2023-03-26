@@ -1,5 +1,7 @@
 Projeto de estudos em Java, JSP, Servlets, Banco de dados PostgreSQL, JasperReports e Bootstrap
-Este é um projeto de estudos que visa demonstrar a criação de um sistema simples utilizando tecnologias Java para web, banco de dados PostgreSQL, a geração de relatórios com a biblioteca JasperReports e a integração do framework Bootstrap para uma melhor aparência visual e responsividade do sistema. Além disso, o projeto foi reestruturado para seguir o padrão de arquitetura MVC (Model-View-Controller).
+Este é um projeto de estudos que visa demonstrar a criação de um sistema simples utilizando tecnologias Java para web, banco de dados PostgreSQL, a geração de relatórios com a biblioteca JasperReports e a integração do framework Bootstrap para uma melhor aparência visual e responsividade do sistema. Além disso, o projeto foi reestruturado para seguir o padrão de arquitetura MVC (Model-View-Controller). Você também pode ver um pequeno video do funcionamento do projeto no meu LinkedIn!
+
+https://www.linkedin.com/feed/update/urn:li:activity:7045814656472342528/
 
 Tecnologias utilizadas
 Java
